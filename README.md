@@ -1,2 +1,2 @@
 # website-paiz
-web
+schaduler-cpu
